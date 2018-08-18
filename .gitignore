@@ -1,5 +1,5 @@
 .idea
-/image/
+#/image/
 
 .gitignore
 /vendor/

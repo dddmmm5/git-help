@@ -2,5 +2,5 @@
 #/image/
 
 .gitignore
-/vendor/
+#/vendor/
 
